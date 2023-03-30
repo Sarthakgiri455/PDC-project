@@ -1,0 +1,20 @@
+a 2
+ag 2
+ahf 3
+ahfs 3
+aoisd 3
+asdh 3
+ashd 3
+augh 3
+auhf 2
+f 2
+sadh 3
+uah 2
+uahf 2
+uahg 2
+uahuf 2
+
+uah 1
+uahf 1
+uahg 1
+uahuf 1
